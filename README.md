@@ -124,10 +124,7 @@ Fraud_Detection_Project/
 │
 ├── README.md
 │
-├── requirements.txt
-│
-└── .gitignore
-```
+
 
 ---
 
